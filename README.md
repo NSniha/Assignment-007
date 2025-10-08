@@ -38,9 +38,4 @@ For more complex cases, you can use the Context API to provide global state that
 
 5. How is event handling done in React?
 Event handling in React is done using camelCase syntax such as onClick, onChange, or onSubmit. Instead of writing event names as strings, you pass them as functions.
-For example:
 
-<button onClick={handleClick}>Click Me</button>
-
-
-React uses a system called Synthetic Events that works the same way across all browsers, making event handling consistent and easy to use.
