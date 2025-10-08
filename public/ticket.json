@@ -6,7 +6,7 @@
     "customer": "John Smith",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-11-05"
+    "createdAt": "2025-09-05"
   },
   {
     "id": 1002,
@@ -15,7 +15,7 @@
     "customer": "Sarah Johnson",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-11-08"
+    "createdAt": "2025-09-08"
   },
   {
     "id": 1003,
@@ -24,7 +24,7 @@
     "customer": "Michael Brown",
     "priority": "Medium",
     "status": "In-Progress",
-    "createdAt": "2024-11-07"
+    "createdAt": "2025-09-07"
   },
   {
     "id": 1004,
@@ -33,7 +33,7 @@
     "customer": "Emily Davis",
     "priority": "Medium",
     "status": "Open",
-    "createdAt": "2024-11-08"
+    "createdAt": "2025-09-08"
   },
   {
     "id": 1005,
@@ -42,7 +42,7 @@
     "customer": "David Wilson",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-11-09"
+    "createdAt": "2025-09-09"
   },
   {
     "id": 1006,
@@ -51,7 +51,7 @@
     "customer": "Sophia Taylor",
     "priority": "Medium",
     "status": "In-Progress",
-    "createdAt": "2024-12-02"
+    "createdAt": "2025-10-02"
   },
   {
     "id": 1007,
@@ -60,7 +60,7 @@
     "customer": "James Anderson",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-12-05"
+    "createdAt": "2025-10-05"
   },
   {
     "id": 1008,
@@ -69,7 +69,7 @@
     "customer": "Olivia Martinez",
     "priority": "Medium",
     "status": "Open",
-    "createdAt": "2024-12-22"
+    "createdAt": "2025-10-22"
   },
   {
     "id": 1009,
@@ -78,7 +78,7 @@
     "customer": "Liam Thomas",
     "priority": "Medium",
     "status": "In-Progress",
-    "createdAt": "2024-11-07"
+    "createdAt": "2025-09-07"
   },
   {
     "id": 1010,
@@ -87,7 +87,7 @@
     "customer": "Isabella Garcia",
     "priority": "Medium",
     "status": "Open",
-    "createdAt": "2024-12-24"
+    "createdAt": "2025-10-24"
   },
   {
     "id": 1011,
@@ -96,7 +96,7 @@
     "customer": "Lucas White",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-11-28"
+    "createdAt": "2025-09-28"
   },
   {
     "id": 1012,
@@ -105,7 +105,7 @@
     "customer": "Emma Roberts",
     "priority": "Medium",
     "status": "In-Progress",
-    "createdAt": "2024-12-10"
+    "createdAt": "2025-10-10"
   },
   {
     "id": 1013,
@@ -114,7 +114,7 @@
     "customer": "Benjamin Lee",
     "priority": "Low",
     "status": "Open",
-    "createdAt": "2024-12-15"
+    "createdAt": "2025-10-15"
   },
   {
     "id": 1014,
@@ -123,15 +123,16 @@
     "customer": "Chloe Harris",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2024-12-20"
+    "createdAt": "2025-10-20"
   },
   {
     "id": 1015,
-    "title": "Invoice Shows Wrong Tax Amount",
-    "description": "The invoice calculation includes incorrect tax percentage for EU customers.",
-    "customer": "Daniel Scott",
-    "priority": "High",
-    "status": "In-Progress",
-    "createdAt": "2024-12-26"
+    "title": "Dark Mode Resets",
+    "description": "Customer enables Dark Mode, but the setting resets to Light Mode after page refresh or re-login.",
+    "customer": "Grace Nguyen",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-10-06"
   }
+
 ]
